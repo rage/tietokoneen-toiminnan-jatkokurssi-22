@@ -6,6 +6,8 @@ information_page: true
 
 # Kurssin suorittamisesta
 
+**HUOMAA, ETTÄ TÄMÄ VUODEN 2022 KURSSIN SIVUSTO SULJETAAN LÄHIAIKOINA. TÄMÄ SIVUSTO EI OLE KÄYTÖSSÄ HELSINGIN YLIOPISTON AVOIMEN YLIOPISTON TIETOKONEEN TOIMINNAN JATKOKURSSILLA 13.3.-31.7.2023. Vuoden 2023 kurssin sivusto on 13.3.2023 alkaen osoitteessa [https://tito-jatko-2023.mooc.fi/](https://tito-jatko-2023.mooc.fi/). Ennen kurssin alkua sivustolle tehdään vielä muutoksia. Jos olet tehnyt vuoden 2022 kurssisivuston mooc-pikatehtäviä, voit kopioida  vanhat vastauksesi uudelle kurssisivulle.**
+
 Tietokoneen toiminnan jatkokurssi (3 op) on kaikille avoin ja ilmainen verkkokurssi. Kurssilla perehdytään tietokoneen perustoimintoihin. Kurssi on suoraan jatkoa Tietokoneen toiminnan perusteet -kurssille. Kurssin aluksi kerrataan ja syvennetään perusteet -kurssilla opittua. Sen jälkeen perehdymme kurssilla aluksi konekieliseen ohjelmointiin, tiedon muuttumattomuuden tarkistamiseen ja oheislaitteiden hallintaan. Näytämme sitten aikaisempaa tarkemmin, kuinka korkean tason kielestä saadaan kääntämällä, linkittämällä ja lataamalla käyttöjärjestelmän tuntema prosessi. Lopuksi esittelemme ohjelmien vaihtoehtoisen suoritustavan tulkinnan ja emuloinnin avulla.
 
 Lähtötietoina kurssilla kurssin Tietokoneen toiminnan perusteet (esimerkiksi Helsingin yliopiston Tietokoneen toiminnan perusteet MOOC) ja jonkin korkean tason kielen ohjelmointikurssin (esimerkiksi Helsingin yliopiston Ohjelmoinnin alkeet MOOC) tiedot.
